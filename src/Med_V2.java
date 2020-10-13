@@ -31,7 +31,7 @@ public class Med_V2 {
         System.out.println("Подходит "+pacient);
         System.out.println("Измеряем рост "+pacient.getRost());
         System.out.println("Измеряем вес "+pacient.getWes());
-        System.out.println("Анализ крови даёт "+pacient.getKrov());
+        System.out.println("Анализ крови даёт "+pacient.getKrov());//dsadas
 
     }
 }
